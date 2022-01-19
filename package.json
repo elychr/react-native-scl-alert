@@ -32,7 +32,7 @@
     "prettier": "^2.2.1",
     "react": "17.0.2",
     "react-dom": "^16.2.0",
-    "react-native": "^0.65.0",
+    "react-native": "^0.67.0",
     "react-native-scripts": "2.0.1",
     "react-test-renderer": "17.0.2"
   },
